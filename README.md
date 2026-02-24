@@ -1,6 +1,4 @@
-### TURN ON DARK MODE<p align="left"> <img src="images/Mode-changer.gif" width="150" height="70"> </p>
-## PRESENTED BY <p align="center"> <img src="images/Logo-Transparent for Black BG.png" width="220" height="200"> </p>
-# 🔴SOC-OpenSource
+# 🔴Modern-SOC-LAB
 This is a Project Designed for Security Analysts and all SOC audiences who wants to play with implementation and explore the Modern SOC architecture. All of the componenets are used based on Open Source Projects(Availabe at the time of first commit). 
 
 <ins> **NOTE - This is an Ongoing Project and the repo will be updated as we work on the new additions.** </ins>
@@ -19,15 +17,15 @@ This Projects serves below usecases:
  - [Architecture Diagram](#Architecture-Diagram)
  - [Components used in this Project](#Components)
  - [Installation Requirements](#Installation-Requirements)
- - [Installation Guide First Phase](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/installation/install1.md)
- - [Installation Guide Second Phase](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/installation/install2.md)
- - [Installation Guide Beats Agent](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/installation/beats.md)
- - [Shuffle Automation Install Guide](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/installation/Shuffle-install.md)
- - [Integration Guide First Phase](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/integration/integration.md)
+ - [Installation Guide First Phase](https://github.com/Darvin697/Modern-SOC-Project/blob/main/installation/install1.md)
+ - [Installation Guide Second Phase](https://github.com/Darvin697/Modern-SOC-Project/blob/main/installation/install2.md)
+ - [Installation Guide Beats Agent](https://github.com/Darvin697/Modern-SOC-Project/blob/main/installation/beats.md)
+ - [Shuffle Automation Install Guide](https://github.com/Darvin697/Modern-SOC-Project/blob/main/installation/Shuffle-install.md)
+ - [Integration Guide First Phase](https://github.com/Darvin697/Modern-SOC-Project/blob/main/integration/integration.md)
  - [Shuffle Workflow Implementation](#Shuffle-Workflow-Implementation)
  - [Elastic EDR Implementation](#EDR-Implementation)
- - [Contributing](#Contributing)
- - [Support](#Support)
+ 
+ 
 
 # ☸Architecture-Diagram(Ongoing):
 <p align="center"> <img src="images/simpler-soc.png"> </p>
