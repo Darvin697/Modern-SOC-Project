@@ -71,12 +71,13 @@ All of the components used in this projects are Open Source.
  - **Elastic EDR**: [Elastic EDR](https://www.elastic.co/endpoint-security/) prevents ransomware and malware, detects advanced threats, and arms responders with vital context. It’s free and open, ready for every endpoint.
 
 # 🔽Installation-Requirements: 
-We have created the environment in AWS. You can follow along or choose any other alternative cloud provider. Or ever you can utilize EKS to deploy the full setup.
+I have created the environment in Vultr cloud. You can follow along or choose any other alternative cloud provider. Or ever you can utilize EKS to deploy the full setup.
 ## ☁VM Requirements:
  - MISP- Ubuntu20- t3.micro
  - Elastic SIEM- Ubuntu20- t2.medium (Best performence can be achived on t2.large)
  - Cortex- Ubuntu20- t3a.medium (Can work on t2.medium as well)
  - TheHive- Ubuntu20- t2.medium
+
 ## 🌏Network Rules:
 | Ports | IP Ranges | Comments |
 | --- | --- | --- |
@@ -90,14 +91,7 @@ We have created the environment in AWS. You can follow along or choose any other
 | All TCP | MISP VM IP | Accssing inbound API|
 | All TCP | TheHive VM IP | Accssing inbound API|
 
-# 🤝Contributing
-We welcome your contributions. Please feel free to fork the code, play with it, make some patches and send us pull requests. 
 
-# 🔼Enhancements:
- - As per the architecture document and Components mentioned we will keep on updating this repo with the staged implementation.
- - All of the required staged implemtation will be added in the Index page, so you can access them easily from there.
 
-# 🙏Support
- - Please [open an issue on GitHub](https://github.com/archanchoudhury/SOC-OpenSource/issues/new) if you'd like to report a bug or request a feature.
- - For real DFIR Training, subscribe to my [YouTube Channel](https://www.youtube.com/c/BlackPerl)
- - If you like to support my creation, <p align="left"><a href="https://www.buymeacoffee.com/BlackPerl"> <img src="images/KULQlzAg.png" width="210" height="60"></p>
+
+
