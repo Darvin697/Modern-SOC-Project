@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # 🔴 Modern SOC Lab
+=======
+# 🔴Modern-SOC-LAB
+This is a Project Designed for Security Analysts and all SOC audiences who wants to play with implementation and explore the Modern SOC architecture. All of the componenets are used based on Open Source Projects(Availabe at the time of first commit). 
+>>>>>>> af1939888279898ae7e8eae99c618b2d9ee66d57
 
 ![Status](https://img.shields.io/badge/status-Ongoing-orange)
 ![License](https://img.shields.io/badge/license-Open%20Source-brightgreen)
@@ -7,7 +12,23 @@
 
 A fully open-source Security Operations Center (SOC) lab designed for security analysts and SOC practitioners who want to explore, implement, and experiment with a modern SOC architecture — from log collection and normalization all the way through automated threat response.
 
+<<<<<<< HEAD
 > ⚠️ **This is an ongoing project. The repository will be updated as new components and phases are added.**
+=======
+# 📑Index:
+ - [Architecture Diagram](#Architecture-Diagram)
+ - [Components used in this Project](#Components)
+ - [Installation Requirements](#Installation-Requirements)
+ - [Installation Guide First Phase](https://github.com/Darvin697/Modern-SOC-Project/blob/main/installation/install1.md)
+ - [Installation Guide Second Phase](https://github.com/Darvin697/Modern-SOC-Project/blob/main/installation/install2.md)
+ - [Installation Guide Beats Agent](https://github.com/Darvin697/Modern-SOC-Project/blob/main/installation/beats.md)
+ - [Shuffle Automation Install Guide](https://github.com/Darvin697/Modern-SOC-Project/blob/main/installation/Shuffle-install.md)
+ - [Integration Guide First Phase](https://github.com/Darvin697/Modern-SOC-Project/blob/main/integration/integration.md)
+ - [Shuffle Workflow Implementation](#Shuffle-Workflow-Implementation)
+ - [Elastic EDR Implementation](#EDR-Implementation)
+ 
+ 
+>>>>>>> af1939888279898ae7e8eae99c618b2d9ee66d57
 
 ---
 
